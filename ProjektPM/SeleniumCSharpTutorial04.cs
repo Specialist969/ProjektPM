@@ -59,7 +59,7 @@ namespace ProjektPM
         }
 
         //[Test]
-        //[Author("Arkadiusz Migocki", "arkadiusz.migocki@microsoft.wsei.edu.pl")]
+        //[Author("Paweł Musiał", "pawel.musial@microsoft.wsei.edu.pl")]
         //[Description("Facebook login Verify")]
         //public void Test2()
         //{
