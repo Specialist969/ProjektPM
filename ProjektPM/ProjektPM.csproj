@@ -50,7 +50,7 @@
     <Compile Include="BaseClass\BaseTest.cs" />
     <Compile Include="OrderSkipAttribute.cs" />
     <Compile Include="ParallelTesting.cs" />
-    <Compile Include="SeleniumCSharpTutorial04.cs" />
+    <Compile Include="SeleniumCSharpTutorial.cs" />
     <Compile Include="TestClass.cs" />
     <Compile Include="Utilities\BrowserUtility.cs" />
   </ItemGroup>

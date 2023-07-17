@@ -11,7 +11,7 @@ using OpenQA.Selenium.Chrome;
 namespace ProjektPM
 {
     [TestFixture]
-    public class SeleniumCSharpTutorial04
+    public class SeleniumCSharpTutorial
     {
         [Test]
         [Author("Paweł Musiał", "pawel.musial@microsoft.wsei.edu.pl")]
